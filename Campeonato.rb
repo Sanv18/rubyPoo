@@ -1,3 +1,4 @@
+--clase participante ingresar los datos correspondientes
 class Participante 
 	attr_accessor :nombre, :apellido, :alia, :razaJuego, :puntajeTotal
 	def initialize(nombre, apellido, alia, razaJuego)
